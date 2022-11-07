@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ricky</h1>
-<h3 align="center">Not a backend developer (yet)</h3>
+Hi 👋, I'm Ricky
+================
+
+### Not a backend developer (yet)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maraciuca30) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maraciuca2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/maraciuca_) 
 
