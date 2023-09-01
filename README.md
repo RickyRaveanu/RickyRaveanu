@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
-<h3 align="center">Not a backend developer (yet)</h3>
+<!-- <h3 align="center">Not a backend developer (yet)</h3> -->
 <h2 id="-socials-">🌐 Socials:</h2>
 <p><a href="https://instagram.com/@maraciuca30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://tiktok.com/@maraciuca2"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&amp;logoColor=white" alt="TikTok"></a> <a href="https://twitch.tv/maraciuca_"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" alt="Twitch"></a> </p>
 
