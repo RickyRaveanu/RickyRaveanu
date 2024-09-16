@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 
-💫 About Me:
 🔭 I’m currently working on [IntelliQ](https://intelliq.dev)
 <br>🌱 I’m currently learning NextJS, Typescript, Golang, PostgreSQL<br>📫 How to reach me: [contact@rickyraveanu.com](mailto:contact@rickyraveanu.com)
 
